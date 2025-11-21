@@ -1,12 +1,12 @@
 # 👾 MATH INVADERS - Le Générateur de Défis Mathématiques Exotiques
 
-##🚀 À Propos du Jeu
+## 🚀 À Propos du Jeu
 
 Bienvenue dans **MATH INVADERS**, le générateur ultime de problèmes mathématiques complexes pour étudiants, professeurs ou passionnés. Inspiré des jeux d'arcade classiques, ce générateur vous propose un flux constant de défis de niveau supérieur, allant des intégrales impossibles à l'algèbre linéaire tordue.
 
 Le design rétro-arcade est là pour vous donner l'énergie nécessaire pour vaincre ces "envahisseurs" mathématiques !
 
-##🕹️ Comment Jouer
+## 🕹️ Comment Jouer
 
 Le principe est simple :
 
@@ -26,7 +26,7 @@ Le principe est simple :
 
 4.  **Vérifiez la Solution** : Une fois que vous avez trouvé votre réponse (ou si vous êtes bloqué !), cliquez sur le bouton "Voir la solution". Ce bouton vous redirigera directement vers WolframAlpha avec la requête pré-remplie, vous fournissant la solution complète (étapes de calcul, formes simplifiées, etc.).
 
-##🛠️ Technologies Utilisées
+## 🛠️ Technologies Utilisées
 
 - **HTML/CSS (Tailwind CSS)** : Structure et style (avec un thème rétro personnalisé).
 
@@ -36,7 +36,7 @@ Le principe est simple :
 
 - **WolframAlpha** : Outil externe de calcul formel utilisé pour fournir les solutions.
 
-##🎯 Objectif du Projet
+## 🎯 Objectif du Projet
 
 Ce projet a été conçu pour :
 
