@@ -12,13 +12,13 @@ Le principe est simple :
 
 1.  **Sélectionnez une Catégorie** : Utilisez les onglets de style arcade pour choisir le type de problème que vous souhaitez affronter :
 
-  - **Intégrales** : Défis d'intégration définies et indéfinies, souvent avec des fonctions spéciales ou des bornes exotiques ($\pi$, $\infty$, $J_0(x)$, etc.).
+    - **Intégrales** : Défis d'intégration définies et indéfinies, souvent avec des fonctions spéciales ou des bornes exotiques ($\pi$, $\infty$, $J_0(x)$, etc.).
 
-  - **Dérivées** : Fonctions complexes composées ou quotients nécessitant des applications avancées des règles de dérivation.
+    - **Dérivées** : Fonctions complexes composées ou quotients nécessitant des applications avancées des règles de dérivation.
 
-  - **Algèbre Linéaire** : Calcul des valeurs propres, des vecteurs propres, du noyau (Ker f) d'endomorphismes, ou de l'inverse d'une matrice.
+    - **Algèbre Linéaire** : Calcul des valeurs propres, des vecteurs propres, du noyau (Ker f) d'endomorphismes, ou de l'inverse d'une matrice.
 
-  - **Limites** : Problèmes de limites nécessitant la règle de L'Hôpital ou des connaissances sur les formes indéterminées et les séries.
+    - **Limites** : Problèmes de limites nécessitant la règle de L'Hôpital ou des connaissances sur les formes indéterminées et les séries.
 
 2.  **Générez le Défi** : Cliquez sur le bouton "Générer un nouveau défi". Le problème LaTeX s'affichera dans la zone principale.
 
