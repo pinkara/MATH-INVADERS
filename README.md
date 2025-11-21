@@ -1,5 +1,7 @@
 # 👾 MATH INVADERS - Le Générateur de Défis Mathématiques Exotiques
 
+▶️  ([PLAY !](https://pinkara.github.io/MATH-INVADERS/MATH_INVADERS.html)) ◀️
+
 ## 🚀 À Propos du Jeu
 
 Bienvenue dans **MATH INVADERS**, le générateur ultime de problèmes mathématiques complexes pour étudiants, professeurs ou passionnés. Inspiré des jeux d'arcade classiques, ce générateur vous propose un flux constant de défis de niveau supérieur, allant des intégrales impossibles à l'algèbre linéaire tordue.
